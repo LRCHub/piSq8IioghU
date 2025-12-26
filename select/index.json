@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "TUNNEL VISION",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-26T10:27:52.820413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_Tunnel_Vision_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Rina Sawayama feat. Shamir",
+      "has_synced": true,
+      "path": "select/02_Tunnel_Vision_Rina_Sawayama_feat._Shamir.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tunnel Vision (Outro)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/03_Tunnel_Vision_(Outro)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/04_Tunnel_Vision_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/05_Tunnel_Vision_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midtown Tunnel Vision",
+      "artist": "Rainbow",
+      "has_synced": true,
+      "path": "select/06_Midtown_Tunnel_Vision_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/07_Tunnel_Vision_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Justus Proffit feat. Jay Som",
+      "has_synced": true,
+      "path": "select/08_Tunnel_Vision_Justus_Proffit_feat._Jay_Som.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Justus Proffit & Jay Som",
+      "has_synced": true,
+      "path": "select/09_Tunnel_Vision_Justus_Proffit_&_Jay_Som.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Tokyo Police Club",
+      "has_synced": true,
+      "path": "select/10_Tunnel_Vision_Tokyo_Police_Club.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Boston Manor",
+      "has_synced": true,
+      "path": "select/11_Tunnel_Vision_Boston_Manor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tunnel Vision",
+      "artist": "Kingdom Of Giants",
+      "has_synced": true,
+      "path": "select/12_Tunnel_Vision_Kingdom_Of_Giants.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TUNNEL VISION",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_TUNNEL_VISION_ITZY.txt"
+    }
+  ]
+}
